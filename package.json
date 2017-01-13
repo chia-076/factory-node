@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wmgdsp/factory-nodejs.git"
+    "url": "git://github.com/chia-076/factory-node.git"
   },
   "dependencies": {
     "amqplib": "0.2.1",
@@ -44,7 +44,7 @@
     "xunitTest": "mocha -t 60000 --recursive -R xunit > test-reports.xml"
   },
   "main": "krot",
-  "gitHead": "a43e36c5e5b4f4c021c9ac3033f3cdb000c597ed",
+  "gitHead": "62d67d62a1bc46f7dc2de9e342af497a7670a6ab",
   "readme": "##Factory NodeJS Library (krot)\r\n\r\nThe library provides Node.js modules for building DSP applications.\r\n\r\nSee documentation at [DevPortal][1].\r\n\r\nSee Node.js library (krot) changelog [here][2] at DevPortal.\r\n\r\n  [1]: http://devportal.devportal-ci.dspdev.wmg.com\r\n  [2]: http://devportal.devportal-ci.dspdev.wmg.com/docs/nodejs/getting_started/nodejs_library_%28krot%29_changelog\r\n",
   "readmeFilename": "readme.md",
   "description": "The library provides Node.js modules for building DSP applications.",
@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/wmgdsp/factory-nodejs#readme",
   "_id": "krot@2.0.0",
-  "_shasum": "2a12eb4e232ca29c05b31fc494ff7e643f959f9d",
-  "_from": "git+ssh://git@github.com/WarnerMusicGroup/factory-nodejs.git#v2.0.0",
-  "_resolved": "git+ssh://git@github.com/WarnerMusicGroup/factory-nodejs.git#a43e36c5e5b4f4c021c9ac3033f3cdb000c597ed"
+  "_shasum": "62d67d62a1bc46f7dc2de9e342af497a7670a6ab",
+  "_from": "git+ssh://git@github.com/chia-076/factory-node.git#62d67d62a1bc46f7dc2de9e342af497a7670a6ab",
+  "_resolved": "git+ssh://git@github.com/chia-076/factory-node.git#62d67d62a1bc46f7dc2de9e342af497a7670a6ab"
 }
